@@ -1,0 +1,118 @@
+Specs
+Precision 7510
+15.6"
+
+Durability: "has been subjected to MIL-STD 810G testing"
+display has a wide frame that surely makes it more durable
+
+Dimensions and weight
+Width: 14.88” / 378mm
+Depth: 10.38” / 261mm
+Height (front-Rear):
+ Front 1.09” / 27.76mm 
+ Rear  1.3”  / 33mm
+Starting at 2.79kg (6.16lb)
+
+keyboard
+travel: 1.7 mm
+force: 58 grams
+optionally available backlight
+
+pointing devices
+pointstick present
+three buttons above&below touchpad
+ThinkPad-like middle button for scrolling with touchpad/pointstick
+
+Display Options
+-------------------------------------------------
+FHD (1920x1080)
+Anti-Glare LED-backlit (45% color gamut)
+-- emits up to 228 nits (a measure of brightness)
+-- people say it's not bright enough
+-- colorimeter says: only 60 percent of the sRGB spectrum
+
+UltraSharp™ FHD IPS (1920x1080) Wide View
+Anti-Glare LED-backlit 
+with Premium Panel Guarantee (72% color gamut)
+
+Touch (→ full-glare, I guess more prone to get chipped)
+UltraSharp™ FHD IPS (1920x1080) Wide View 
+LED-backlit 
+with Premium Panel Guarantee (72% color gamut)
+
+UltraSharp™ UHD IGZO (3840x2160) Wide View PremierColor
+Anti-Glare LED-backlit
+with Premium Panel Guarantee (100% Adobe color gamut)
+-------------------------------------------------
+
+one M.2 PCIe SSD
+one 2.5" SATA alternatively with one M.2 PCIe SSD
+
+Wired: Integrated Intel 82580 10/100/1000 Gigabit Ethernet
+
+Wireless LAN & Bluetooth:
+Intel® 8260 Dual-Band 2x2 802.11 ac (Miracast) Bluetooth® 4.1,
+Dell DW1820 2x2 801.11ac + Bluetooth 4.1,
+
+Mobile Broadband & GPS:
+DW5811e (Gobi 4g/LTE – FMC)
+
+Dual integrated high quality speakers
+-- reportedly really good
+
+optional
+dual integrated noise cancelling digital array microphones
+
+Optional
+webcam placement: above the display
+1280x720 webcam
+light sensitive 
+
+I/O Ports and Connectors
+1 x SD Card Reader (SD, SDHC, SDXC, supporting up to 64GB)
+1 x Thunderbolt® 3 (optional)
+4 x USB-A 3.0 ports
+full sized HDMI
+mini DisplayPort
+
+optional smartcard reader
+
+optional fingerprint reader
+
+Battery
+72Wh Lithium Ion polymer battery
+91Wh Lithium Ion polymer battery
+85Wh long life cycle Ion Polymer battery
+
+Power Adaptor
+180 Watt AC adapter (7mm barrel)
+
+=====================================================================
+COMPUTING PERFORMANCE
+-------------------------------------------------
+
+CPUs. /TDP all 45W/
+Intel Core Xeon E3-1575Mv5 Quad Core Xeon 3.0GHz,3.9GHzTurbo, 8MB
+Intel Core Xeon E3-1545Mv5 Quad Core Xeon 2.9GHz,3.8GHzTurbo, 8MB
+Intel Core Xeon E3-1535Mv5 Quad Core Xeon 2.9GHz,3.8GHzTurbo, 8MB
+Intel Core Xeon E3-1505Mv5 Quad Core Xeon 2.8GHz,3.7GHzTurbo, 8MB
+Intel Core i7-6920HQ Quad Core 2.9GHz,3.8GHzTurbo, 8MB
+Intel Core i7-6820HQ Quad Core 2.7GHz,3.6GHzTurbo, 8MB
+Intel Core i5-6300HQ Quad Core 2.3GHz,3.2GHzTurbo, 6MB
+
+chipset		IntelMobileCM236
+
+4 DIMM slots:
+up to 64GB DDR4 NECC 2133MHz
+Up to 32GB DDR4 2667MHz SuperSpeed memory
+Up to 64GB ECC DDR4 2133MHz
+
+works well with HardenedBSD
+
+Graphics
+AMD FirePro W5170M with 2GB GDDR5 dedicated memory
+NVIDIA Quadro M1000M with 2GB GDDR5 dedicated memory
+Nvidia Quadro M2000M with 4GB GDDR5 dedicated memory
+ (VGA compatible controller: NVIDIA Corporation GM107GLM)
+Intel® HD Graphics P580, P530, & 530
+

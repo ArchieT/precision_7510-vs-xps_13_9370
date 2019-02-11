@@ -1,0 +1,92 @@
+Specs
+XPS 13 9370
+13.3"
+
+Durability
+-
+
+Dimensions and weight
+Width 302mm
+Depth 199mm
+Height (front-Rear):
+ Front 7.8mm
+ Rear 11.6mm
+Starting at 1.21kg (2.67lb [2.68lb for touch])
+
+keyboard
+travel:  1.3mm (as opposed to previous XPS13's 1.2mm)
+force: 72 grams
+
+pointing devices
+only the big touchpad
+no middle button (only the sw 3-finger tap)
+
+Display Options
+-------------------------------------------------
+FHD (1920 x 1080)
+72 percent color gamut
+-- can now go to 400 nits of brightness
+
+Touch
+FHD (1920 x 1080)
+72 percent color gamut
+
+UltraSharp 4K (3840x2160)
+100 percent color gamut
+-- decreases battery life greatly
+-------------------------------------------------
+
+"128GB (SATA); 256GB, 512GB, or 1TB (PCIe)"
+
+Killer 1435 802.11ac [2x2] + Bluetooth 4.1
+-- atheros
+Intel 8265 802.11ac [2x2] wireless for vPro + Bluetooth 4.1
+Miracast capable
+-- non-replaceable
+
+speakers on the sides
+
+webcam placement: below the display
+1280x720 webcam
+with four array digital microphones
+Windows Hello compliant infrared camera
+ (for face recognition)
+Far Field Cortana capable
+ (The XPS 13 responds to your voice 
+  from up to 14 feet away
+  with four built-in microphones.)
+
+two USB-C 3.1 (Thunderbolt 3 compatible) with PowerShare
+
+(no USB-A)
+
+microSD card reader
+
+optional
+Windows Hello compliant
+fingerprint reader in power button
+
+has headset jack too
+
+Battery
+54Wh
+
+one designated of USB-C is a charging port
+
+=====================================================================
+COMPUTING PERFORMANCE
+-------------------------------------------------
+
+CPUs
+Intel 8th Gen Core i5-8250U
+Intel 8th Gen Core i7-8550U
+
+LPDDR3 4GB-8GB at 1866MHz
+16GB at 2133MHz
+(not serviceable)
+
+Native graphics 	Intel UHD Graphics 620
+Discrete graphics 	None
+
+revamped thermals and cooling solution
+including the use of GORE Thermal Insulation (silica aerogels)
